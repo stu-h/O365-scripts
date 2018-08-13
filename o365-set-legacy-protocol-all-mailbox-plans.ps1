@@ -12,7 +12,7 @@ $ErrorActionPreference = "Stop";
 $mfa=$true
 
 # Set your administrator account below
-$userPrincipalName="shane@mallia.onmicrosoft.com"
+$userPrincipalName="<admin>@<tenant>.onmicrosoft.com"
 
 # Enable/Disable IMAP
 $imapEnabled=$false
